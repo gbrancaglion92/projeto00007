@@ -1,0 +1,184 @@
+body {
+    margin: 0;
+    font-family: Tahoma;
+}
+
+div {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+/*===Estilos globais===*/
+
+.secao {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+p {
+    margin: 10px auto;
+    width: 980px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.texto-amarelo {
+    color: #fff81b;
+}
+
+.texto-azul {
+    color: #1c81c0;
+}
+
+span {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/*===Primeira seção===*/
+
+.primeira-secao {
+    background-color: #afddfb;    
+}
+
+.primeira-secao img {
+    width: 150px;
+}
+
+.primeira-secao a {
+    margin-bottom: 25px;
+    margin-top: 15px;
+    text-decoration: none;
+    border-bottom: 2px solid #1d1d1d;
+}
+
+.primeira-secao p {
+    font-size: 18px;
+    color: #1d1d1d;
+}
+
+.link-primeira {
+    margin: 0 10px;
+}
+
+
+/*===Segunda seção===*/
+
+.segunda-secao {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+/*===Terceira seção===*/
+
+.terceira-secao h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.terceira-secao h2 {
+    font-weight: normal;
+}
+
+.terceira-secao img {
+    width: 450px;
+}
+
+/*===Quarta seção===*/
+
+.quarta-secao {
+    background-color: #1d80c1;
+    color: #ffffff;
+}
+
+.subtitulo-branco {
+    font-size: 28px;
+    line-height: 42px;
+    color: #ffffff;   
+}
+
+.quarta-secao p {
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.quarta-secao ul {
+   margin: 40px auto;
+   width: 135px;
+   text-align: left;
+   line-height: 42px;
+   font-size: 22px;
+}
+
+/*===Quinta seção===*/
+
+.quinta-secao img {
+    width: 450px;
+}
+
+.quinta-secao h2 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.quinta-secao p {
+    font-size: 18px;
+    color: #1d1d1d;
+    
+}
+
+.quinta-secao h2 {
+    color: #1d80c1;
+    margin-bottom: 5px;
+}
+
+/*===Sexta seção===*/
+
+.sexta-secao {
+    background-color: #1d80c1;
+    color: #ffffff;
+}
+
+
+.sexta-secao p {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.sexta-secao ul {
+    margin: 40px auto;
+    width: 210px;
+}
+
+.sexta-secao li {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #ffffff;
+    padding-top: 2px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+
+.sexta-secao a {
+    text-decoration: none;
+    color: #1d80c1;
+}
